@@ -95,6 +95,11 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	padding: 20px;
 	transition: all 0.8s;
 }
+
+.fa-brands{
+	margin-left: 150px;
+}
+
 #menu.navbar-default {
 	background-color: rgba(248, 248, 248, 0);
 	border-color: rgba(231, 231, 231, 0);
@@ -462,6 +467,11 @@ color: #777;
 #footer .social {
 	margin-bottom: 50px;
 }
+
+#instagram{
+	margin-left: 0px;
+}
+
 #footer .social ul li {
 	display: inline-block;
 	margin: 0 20px;
@@ -477,9 +487,10 @@ color: #777;
 }
 #footer p {
 	font-size: 15px;
+	color: #eee;
 }
 #footer a {
-	color: #999999;
+	color: #ffffff;
 }
 #footer a:hover {
 	color: #ffffff;
